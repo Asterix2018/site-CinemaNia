@@ -312,7 +312,7 @@ body{
     position: absolute;
     top: 30%;
     left: 50px;
-    width: 230px;
+    width: 210px;
     opacity: 0;
     transition: 1s all ease-in-out;
 }
@@ -340,7 +340,7 @@ body{
     top: 90px;
     right: 0;
     color: orange;
-    opacity: .5s;
+    opacity: 0.5;
     cursor: pointer;
 }
 
